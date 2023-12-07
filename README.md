@@ -6,7 +6,9 @@
 - Timothy Buchak
 - Trafton Reynolds
 
-### Technologies Used:
+### Platform
+- Microsoft Azure
+
+### Technologies:
 - Databricks
-- Azure
 - Apache Spark (PySpark)
