@@ -6,9 +6,9 @@
 - Timothy Buchak
 - Trafton Reynolds
 
-### Platform
+### Cloud Storage
 - Microsoft Azure
 
-### Technologies:
+### Technologies
 - Databricks
 - Apache Spark (PySpark)
